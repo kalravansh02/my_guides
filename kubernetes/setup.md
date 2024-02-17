@@ -22,4 +22,8 @@ minikube start
 ```
 minikube stop
 ```
+``` To see kubernetes dashboard
+
+minikube dashboard
+```
 ---
